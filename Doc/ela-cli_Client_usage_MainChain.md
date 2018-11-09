@@ -16,7 +16,7 @@
 
 ```json
 {
-    "Host": "127.0.0.1:11336",
+    "Host": "127.0.0.1:21336",
     "DepositAddress":"XEmfgnrDLQmFPBJiWvsyYGV2jzLQY58J6G"
 }
 ```
